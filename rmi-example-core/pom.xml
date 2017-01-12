@@ -14,6 +14,8 @@
   
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <final.name>rmi-example-core</final.name>
+    <main.class></main.class>
   </properties>
   
   <dependencies>
