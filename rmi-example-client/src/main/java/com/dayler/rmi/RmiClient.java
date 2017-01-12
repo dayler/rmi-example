@@ -3,10 +3,6 @@ package com.dayler.rmi;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 
-/**
- * Hello world!
- *
- */
 public class RmiClient 
 {
     public static void main( String[] args ) {

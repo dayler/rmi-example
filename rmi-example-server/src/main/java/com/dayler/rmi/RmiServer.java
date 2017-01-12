@@ -4,18 +4,6 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 
-/**
- * 
- * <p>The RmiServer class.</p>
- * <p>NuevaTel PCS de Bolivia S.A. (c) 2017</p>
- * <p>El contenido de este archivo esta clasificado como: </p>
- * <p>INFORMACION DE CONFIDENCIALIDAD ALTA </p>
- * 
- * @author asalazar
- * @version 1.0 Jan 5, 2017
- * @since 1.8
- *
- */
 public class RmiServer 
 {
     /**
