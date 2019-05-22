@@ -20,3 +20,7 @@ java -Djava.rmi.server.useCodebaseOnly=false -Djava.rmi.server.codebase=file:/fu
 # Start RmiClient
 
 java -Djava.rmi.server.useCodebaseOnly=false -Djava.rmi.server.codebase=file:/full/path/to/rmi-example-core-1.0.jar -Djava.security.policy=/path/to/client.policy -cp /path/to/rmi-example-client-1.0.jar:/path/to/rmi-example-core-1.0.jar com.dayler.rmi.RmiClient 10 5
+
+# Questions or Contact
+
+dayler.salazar@icloud.com
